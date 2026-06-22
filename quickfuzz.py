@@ -6,7 +6,7 @@ import os
 
 rhost = input("Enter the target IP: ")
 rport = input("Enter the target port: ")
-domain = input("Enter a domain name (press Enter if N/A)")
+domain = input("Enter a domain name (press Enter if N/A): ")
 print("Starting directory fuzzing... ")
 
 path = "wordlists"
