@@ -22,6 +22,6 @@ pip install -r requirements.txt
 - recursive fuzzing
 - https support
 
-Only for use on sysytems you are explicitly authorized to test.
+Only for use on systems you are explicitly authorized to test.
 
 Wordlists provided by SecLists, created by Daniel Miessler and contributors.
